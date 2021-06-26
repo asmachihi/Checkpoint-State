@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: bisque;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(230, 125, 207);
+  margin: 5% 30%;
+  padding: 4%;
+  border-radius: 105px;
+  position: sticky;
+  font-size: 15px;
+}
+.Button{
+  border-radius: 30px;
+  border-color: #f11be9;
+  font-size: 27px;
+  background-size: 15px;
+  background-color: lightpink;
+  font-family: inherit;
+  padding: 23px 50px;
+}
